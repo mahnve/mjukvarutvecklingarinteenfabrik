@@ -84,7 +84,6 @@
 <node TEXT="Fokus p&#xe5; expertis ist&#xe4;llet f&#xf6;r produkt" ID="ID_207610367" CREATED="1409295505124" MODIFIED="1409295546704"/>
 <node TEXT="Statiska organisationer" ID="ID_1320902481" CREATED="1409295429159" MODIFIED="1409295497769"/>
 <node TEXT="G&#xe4;ller fr&#xe4;mst stora organisationer" ID="ID_788764114" CREATED="1409295569651" MODIFIED="1409295577536"/>
-<node TEXT="Bel&#xf6;na T-kompetenser" ID="ID_1444122268" CREATED="1409295596258" MODIFIED="1409295607436"/>
 </node>
 </node>
 </node>
@@ -106,6 +105,7 @@
 <node TEXT="Hur Hamren skulle leda landsslaget" ID="ID_76734301" CREATED="1409262177887" MODIFIED="1409262199196"/>
 </node>
 </node>
+<node TEXT="Bel&#xf6;na T-kompetenser" ID="ID_1444122268" CREATED="1409295596258" MODIFIED="1409295607436"/>
 </node>
 <node TEXT="teknik" ID="ID_1270247401" CREATED="1409350429175" MODIFIED="1409350875246">
 <node TEXT="repeterbart" ID="ID_1642656392" CREATED="1409261734228" MODIFIED="1409261767283">
@@ -229,5 +229,6 @@
 <node TEXT="&quot;Vi m&#xe5;ste releasa p&#xe5; natten&quot;" ID="ID_1116921128" CREATED="1409350727516" MODIFIED="1409350742147"/>
 </node>
 </node>
+<node TEXT="" POSITION="left" ID="ID_1096955596" CREATED="1409351264270" MODIFIED="1409351264270"/>
 </node>
 </map>
